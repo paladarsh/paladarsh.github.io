@@ -5,12 +5,30 @@
     <link>https://paladarsh.github.io/</link>
       <atom:link href="https://paladarsh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hello There!</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://paladarsh.github.io/img/dp.jpg</url>
       <title>Hello There!</title>
       <link>https://paladarsh.github.io/</link>
     </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://paladarsh.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://paladarsh.github.io/privacy/</guid>
+      <description>&lt;p&gt;There is no privacy policy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://paladarsh.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://paladarsh.github.io/terms/</guid>
+      <description>&lt;p&gt;There are no terms and conditions.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
